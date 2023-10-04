@@ -1,4 +1,4 @@
-# Hello 👋 this is Crypto Michael Liao.
+# Hello 👋 this is Crypto Michael.
 
 Crypto developer focused on Java, Python, JavaScript, Verilog, etc.
 
