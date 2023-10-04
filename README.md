@@ -1,6 +1,6 @@
-# Hello 👋 this is Michael Liao from China.
+# Hello 👋 this is Crypto Michael Liao.
 
-Software developer focused on Java, Python, JavaScript, Verilog, etc.
+Crypto developer focused on Java, Python, JavaScript, Verilog, etc.
 
 Official website:
 
